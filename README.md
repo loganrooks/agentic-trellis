@@ -4,6 +4,10 @@
 
 **Status: seed phase.** This repository is not yet a working Claude Code plugin. It is a collection of design artifacts and analytical frameworks captured during a supervisor session on a related project (`agentic-mail`, currently private), intended to seed the development of a plugin that doesn't yet exist. Working hypotheses throughout; nothing here is validated at scale.
 
+_Part of the `agentic-*` family — see the `agentic-ecosystem` repo
+(`ECOSYSTEM.md`) for what this repo owns and how it composes with its
+siblings._
+
 ## What this aims to be
 
 A consultant for AI-agential development workflows — specifically for operators using **Claude as planner/orchestrator/supervisor** and **Codex as executor**. The consultant pattern is borrowed from industrial engineering: assess the situation, diagnose the bottlenecks, propose interventions calibrated to actual risk, implement with auditable diffs, measure outcomes, iterate.
